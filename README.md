@@ -6,16 +6,11 @@
 
 [![](https://dcbadge.vercel.app/api/shield/619873397874360370)](https://discord.gg/gXRMz4Y8mb)
 
-- 🔭 I’m currently working on [YAPM](https://github.com/carson-coder/Yet-Another-Python-Module).
-- 🌱 I’m currently learning anything I find intersting
-- 👯 I’m looking to collaborate on nothing rn.
-- 🤔 I’m looking for help with [YAPM](https://github.com/carson-coder/Yet-Another-Python-Module).
-- 💬 Ask me about anything computer related
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: The term "bug" in programming originated from a moth trapped in the Mark II Aiken Relay Calculator in 1947.
+- 🔭 I’m currently working on [GPWS-Elytra](https://github.com/carson-coder/gpws-elytra).
 
 # Skills
 <img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"> Python
+<img src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" height="15"> Java
 
 # Others
 
